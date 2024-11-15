@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" hert="style.css"/>
+</head>
+<body>
+<img
+src="https://static.fundacion-affinity.org/cdn/farfuture/PVbbIC-0M9y4fPbbCsdvAD8bcjjtbFc0NSP3lRwlWcE/mtime:1643275542/sites/default/files/los-10-sonidos-principales-del-perro.jpg"/>
+<h1>Isabella</h1>
+<p>I am 17 years old,I am colombian but moved to Canada 4 month ago, I want to be a veterinarian</p>
+<p>my favorite animal are dogs</p>
+</body>
+</html>
+
+img{
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Arial';
+    background:beige;
+    color:black;
+}
